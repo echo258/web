@@ -1,0 +1,160 @@
+html {
+  background-color: rgba(107, 140, 42, 0.856);
+  font-family: 'Roboto', sans-serif;
+}
+#intro {
+  background-image: url("green-trees.jpg") ;
+  background-size: 100% ;
+  background-position: center;
+}
+#zen-summary {
+  background-color:  rgba(255, 255, 255, 0.514);
+}
+/*links*/
+  a:visited {
+    color: rgba(49, 6, 64, 0.432);
+  }
+  a:hover {
+    color: #4687C9;
+  }
+#banner {
+  font-size: 50px;
+  text-align: center;
+}
+header h1 {
+  margin-bottom: 0px;
+}
+header h2 {
+  margin-top: 0px;
+}
+
+
+.main.supporting {
+margin: 0 40px;
+}
+/*.intro {
+  margin: 0 40px;
+}*/
+
+/* body start */
+.preamble{
+  background-color:  rgba(0, 0, 0, 0.185);
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 3px;
+  width: 100%;
+}
+.preamble h3 {
+  text-transform: uppercase;
+  padding: 10px 0 ;
+  color: #4687C9;
+  text-shadow: 1px 1px 2px black;
+  margin: 0 10%;
+}
+/*  part 2 */
+.explanation {
+  background-color:  rgba(0, 0, 0, 0.185);
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 3px;
+  width: 100%;
+}
+.explanation h3 {
+  text-transform: uppercase;
+  padding: 10px 0 ;
+  color: #4687C9;
+  text-shadow: 1px 1px 2px black;
+  margin: 0 10%;
+}
+/*  part 3 */
+.participation {
+  background-color:  rgba(0, 0, 0, 0.185);
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 3px;
+  width: 100%;
+}
+.participation h3 {
+  text-transform: uppercase;
+  padding: 10px 0 ;
+  color: #4687C9;
+  text-shadow: 1px 1px 2px black;
+  margin: 0 10%;
+}
+/*  part 4 */
+.benefits {
+  background-color:  rgba(0, 0, 0, 0.185);
+  text-align: center;
+  margin: 0 10%;
+  margin-bottom: 70px;
+  padding-bottom: 3px;
+}
+.benefits h3 {
+  text-transform: uppercase;
+  padding: 10px 0 ;
+  color: #4687C9;
+  text-shadow: 1px 1px 2px black;
+  margin: 0 10%;
+}
+/*  part 5 */
+.requirements {
+  background-color:  rgba(0, 0, 0, 0.185);
+  text-align: center;
+  margin-bottom: 25px;
+  padding-bottom: 3px;
+  width: 100%;
+}
+.requirements h3 {
+  text-transform: uppercase;
+  padding: 10px 0 ;
+  color: #4687C9;
+  text-shadow: 1px 1px 2px black;
+  margin: 0 10%;
+}
+/* body end */
+footer {
+  margin-bottom: 15px;
+}
+
+.main {
+
+  margin-right: 320px;
+  margin-left: 30px;
+}
+.sidebar {
+  position: absolute;
+  right: 100px;
+
+  top: 300px;
+  right: 15px;
+  margin: 1em;
+  width: 250px;
+  
+  background-color: rgba(0, 0, 0, 0.185);
+  padding: 1em;
+}
+.sidebar h3 {
+  text-transform: uppercase;
+}
+.design-selection {
+  margin: 0;
+}
+.archives {
+  margin: 0px 0;
+}
+.resources {
+  margin: 0px 0;
+}
+.sidebar a {
+  text-decoration: none;
+  font-size: 20px;
+}
+.sidebar a:link {
+  color: rgb(0, 0, 253);
+}
+.sidebar a:hover {
+  color: #4687C9;
+}
+.sidebar ul {
+  margin: 10px 0;
+}
